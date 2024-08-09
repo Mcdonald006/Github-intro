@@ -1,1 +1,2 @@
-this is a sample file created for github intro project.
+This is a sample file created for github intro project.
+I am making changes to this text file.
